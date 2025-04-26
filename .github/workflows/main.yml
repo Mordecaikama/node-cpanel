@@ -14,6 +14,7 @@ jobs:
       - name: Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.0.0
         with:
-          server: test.kamaservices.org
-          username: username
+          server: ftp.kamaservices.org
+          username: username@kamaservices.org
           password: ;O6Ec$&^KcJM
+          server-dir: /home/kamaiolo/kamaservices.org
