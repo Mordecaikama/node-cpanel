@@ -16,4 +16,3 @@ jobs:
           ftp-server: ${{ secrets.SERVER }}
           ftp-username: ${{ secrets.FTP_USERNAME }}
           ftp-password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: https://test.kamaservices.org/
