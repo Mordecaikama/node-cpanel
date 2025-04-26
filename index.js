@@ -4,7 +4,9 @@ const app = express()
 
 
 app.get('/', (req, res) => {
-    res.send('Hello World!')
+    res.send(
+        '<h1>Welcome to the Express.js API</h1>'
+    )
 }
 )
 
