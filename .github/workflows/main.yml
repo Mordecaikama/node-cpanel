@@ -17,4 +17,4 @@ jobs:
           server: ftp.kamaservices.org
           username: username@kamaservices.org
           password: ;O6Ec$&^KcJM
-          server-dir: /home/kamaiolo/kamaservices.org
+          server-dir: /home/kamaiolo/kamaservices.org/
